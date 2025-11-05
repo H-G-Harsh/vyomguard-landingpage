@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for VyomGarud - a military-grade UAV/drone systems company. Built with Next.js, Tailwind CSS, and Framer Motion to deliver a professional, high-performance web experience.
 
-![VyomGarud Landing Page](./public/gif (1).gif)
+![VyomGarud Landing Page](./public/gif1.gif)
 
 ## 🚀 Overview
 

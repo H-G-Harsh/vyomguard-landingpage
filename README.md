@@ -153,26 +153,18 @@ vyomgarud-landing/
 
 ## 🚀 Deployment
 
-### Deploy to Vercel (Recommended)
+### Deployed on vercel to Vercel (Recommended)
 
-1. Push code to GitHub repository
-2. Visit [vercel.com](https://vercel.com) and sign in
-3. Click "New Project" and import your repository
-4. Vercel auto-detects Next.js and configures build settings
-5. Click "Deploy" and your site goes live!
 
-### Alternative Deployment Options
-- **Netlify**: Connect GitHub repo and deploy
-- **AWS Amplify**: Use AWS hosting infrastructure
-- **Self-hosted**: Build and deploy to your own server
+LINK[vercel.com](https://vercel.com
 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](./public/screenshot-desktop.png)
+![Desktop Screenshot](./public/desk.png)
 
 ### Mobile View
-![Mobile Screenshot](./public/screenshot-mobile.png)
+![Mobile Screenshot](./public/vid2.gif)
 
 ## 🔧 Troubleshooting
 
@@ -194,13 +186,3 @@ vyomgarud-landing/
 ## 📝 License
 
 This project was created as part of the VyomGarud Web Developer Intern Assessment.
-
-## 🤝 Contact
-
-For questions or guidance:
-- **Phone**: +91 8881444693
-- **Email**: contact@vyomgarud.com
-
----
-
-**Built with precision. Engineered for excellence.**

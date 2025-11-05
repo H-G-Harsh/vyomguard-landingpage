@@ -153,10 +153,10 @@ vyomgarud-landing/
 
 ## 🚀 Deployment
 
-### Deployed on vercel to Vercel (Recommended)
+### Deployed on vercel to Vercel
 
 
-LINK[vercel link](https://vyomguard-landingpage.vercel.app/)
+[LINK](https://vyomguard-landingpage.vercel.app/)
 
 ## 📸 Screenshots
 

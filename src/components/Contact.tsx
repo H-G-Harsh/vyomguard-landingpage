@@ -65,7 +65,7 @@ export default function Contact({ contact }: ContactProps) {
   };
 
   return (
-    <section className="py-16 md:py-24 bg-background">
+    <section className="py-12 md:py-16 lg:py-20 rounded-2xl px-6 md:px-8">
       <Container>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

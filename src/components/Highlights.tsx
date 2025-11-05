@@ -18,9 +18,9 @@ const iconMap: Record<string, React.ComponentType<any>> = {
 
 export default function Highlights({ highlights }: HighlightsProps) {
   return (
-    <section className="py-16 md:py-24 bg-background-secondary">
+    <section className="py-12 md:py-16 lg:py-20 rounded-2xl px-6 md:px-8">
       <Container>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-16">
           {highlights.map((highlight, index) => {
             const IconComponent = iconMap[highlight.icon] || Shield;
             
